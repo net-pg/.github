@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, We're .NET PG</h2>  
 
 [![](https://img.shields.io/badge/-@net--pg-%23181717?style=flat-square&logo=github)](https://github.com/net-pg) [![](https://img.shields.io/badge/Grupa%20.NET%20PG-white?style=flat-square&logo=facebook)](https://www.facebook.com/GrupaNETPg)
-<h3 align="center">Passionate developers and students (or former students) from .NET Group based on Gdańsk University of Technology. Aspiring to enrich our community by promoting technology, connecting with other students and growing our skills together</h3>  
+<h3 align="center">Passionate developers and students (or former students) from .NET Group based in Gdańsk University of Technology. Aspiring to enrich our community by promoting technology, connecting with other students and growing our skills together</h3>  
   
  <p>If you're starting your journey with .NET, see our <a href="https://github.com/net-pg/dotnet-starters" target="_blank" rel="noreferrer">dotnet-starters</a> guide where we presented suggested roadmap for learning programming in C#.</p>
 <p>If you're ready to develop something yourself, look at one of our sample, profoundly commented, projects with basic features implemented to show examples of usage:</p>
